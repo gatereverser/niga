@@ -1,6 +1,7 @@
 #include"stdio.h"
 int main(){
 
-	printf("afd\n");
+	printf("lalka_nub_exp\n");
+	
 	return 0;
 }
