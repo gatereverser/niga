@@ -1,7 +1,7 @@
 #include"stdio.h"
 int main(){
 
-	printf("lalka_nub_exp\n");
+	printf("eatacrem\n");
 	
 	return 0;
 }
