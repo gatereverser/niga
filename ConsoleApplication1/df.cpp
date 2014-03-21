@@ -1,6 +1,7 @@
 #include"stdio.h"
 int main(){
 
-	printf("afd\n");
+	printf("eatacrem\n");
+	
 	return 0;
 }
